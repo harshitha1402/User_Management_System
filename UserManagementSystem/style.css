@@ -1,0 +1,62 @@
+
+.css-10trblm.e16nr0p30{
+    color:orange;
+}
+
+.element-container.css-8v4mp2.e1tzin5v3{
+    width: 100%;
+}
+.main.css-k1vhr4.egzxvld3{
+    
+}
+
+
+/* CSS */
+
+
+
+
+
+
+
+/* CSS */
+
+
+
+
+
+/* CSS */
+.css-tzdi8x.edgvbvh10  {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 0 10px;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.css-tzdi8x.edgvbvh10 :hover {
+  background-color: #fff;
+}
+
+.css-tzdi8x.edgvbvh10:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+    .css-tzdi8x.edgvbvh10 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
